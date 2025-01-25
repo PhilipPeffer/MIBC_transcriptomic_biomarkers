@@ -1,0 +1,166 @@
+Patient ID	OS	Deceased	Response
+P001	39	1	Response
+P002	12	1	No response
+P003	52	1	Response
+P004	13	1	Response
+P005	10	1	No response
+P006	130	1	Response
+P007	56	1	Response
+P008	22	1	Response
+P009	29	1	No response
+P010	43	0	Response
+P011	36	1	Response
+P012	40	1	Response
+P013	15	1	Response
+P014	23	1	No response
+P015	20	1	Response
+P016	32	1	Response
+P017	28	0	Response
+P018	20	1	Response
+P019	15	1	Response
+P020	19	1	No response
+P021	37	1	No response
+P022	15	1	No response
+P023	42	1	No response
+P024	15	1	No response
+P025	48	1	No response
+P026	14	1	No response
+P027	32	1	No response
+P028	12	1	No response
+P029	70	0	No response
+P030	22	1	No response
+P031	12	1	Response
+P032	10	1	Response
+P033	10	1	Response
+P034	17	1	Response
+P035	18	1	No response
+P036	46	1	Response
+P037	65	1	Response
+P038	147	0	Response
+P039	61	1	No response
+P040	19	0	Response
+P041	10	1	Response
+P042	175	0	Response
+P043	32	1	Response
+P044	12	1	Response
+P045	58	1	No response
+P046	18	1	No response
+P047	49	1	Response
+P048	12	1	No response
+P049	24	1	Response
+P050	11	1	Response
+P051	6	1	No response
+P052	10	1	No response
+P053	33	1	Response
+P054	7	1	Response
+P055	12	1	No response
+P056	12	1	No response
+P057	27	1	No response
+P058	30	1	No response
+P059	26	1	Response
+P060	75	0	Response
+P061	56	1	Response
+P062	52	0	Response
+P063	43	1	Response
+P064	100	0	Response
+P065	33	1	No response
+P066	39	1	Response
+P067	65	0	Response
+P068	20	1	Response
+P069	108	1	No response
+P070	35	1	No response
+P071	116	0	Response
+P072	17	1	No response
+P073	52	1	Response
+P074	60	1	Response
+P075	35	1	Response
+P076	18	1	Response
+P077	19	1	Response
+P078	10	1	Response
+P079	8	1	No response
+P080	130	0	Response
+P081	4	1	No response
+P082	16	1	No response
+P083	8	1	Response
+P084	21	1	Response
+P085	8	1	No response
+P086	29	1	No response
+P087	10	1	No response
+P088	19	0	No response
+P089	27	0	No response
+P090	46	0	Response
+P091	44	0	Response
+P092	44	0	Response
+P093	31	0	No response
+P094	41	0	Response
+P095	40	0	Response
+P096	38	0	Response
+P097	38	0	Response
+P098	34	0	Response
+P099	36	0	Response
+P100	36	0	Response
+P101	35	0	Response
+P102	35	0	Response
+P103	34	0	Response
+P104	34	0	No response
+P105	33	0	Response
+P106	34	0	Response
+P107	33	0	Response
+P108	32	0	Response
+P109	32	0	Response
+P110	32	0	Response
+P111	29	0	Response
+P112	29	0	Response
+P113	25	0	Response
+P114	25	0	Response
+P115	22	0	Response
+P116	20	0	No response
+P117	20	0	No response
+P118	19	0	No response
+P119	19	0	No response
+P120	16	0	Response
+P121	17	0	Response
+P122	16	0	No response
+P123	15	0	Response
+P124	15	0	No response
+P125	13	0	Response
+P126	15	0	Response
+P127	15	0	Response
+P128	5	0	Response
+P129	23	1	Response
+P130	100	1	No response
+P131	19	1	No response
+P132	15	1	No response
+P133	134	1	Response
+P134	174	0	Response
+P135	85	0	Response
+P136	61	0	Response
+P137	134	1	Response
+P138	12	1	Response
+P139	14	1	Response
+P140	20	1	No response
+P141	10	1	No response
+P142	12	1	No response
+P143	23	1	Response
+P144	12	1	No response
+P145	14	1	No response
+P146	40	0	Response
+P147	27	0	Response
+P148	22	0	Response
+P149	17	1	No response
+P150	13	1	No response
+P151	15	1	No response
+P152	32	0	No response
+P153	26	1	No response
+P154	34	0	Response
+P155	47	0	Response
+P156	46	0	Response
+P157	44	0	Response
+P158	42	0	Response
+P159	43	0	Response
+P160	23	0	Response
+P161	23	0	Response
+P162	22	0	Response
+P163	15	0	Response
+P164	6	1	No response
+P165	23	1	NA
