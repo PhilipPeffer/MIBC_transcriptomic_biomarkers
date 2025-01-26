@@ -1,0 +1,5 @@
+In this project, I analyze a gene expression dataset from tumor tissues of muscle-invasive bladder cancer (MIBC) patients that received platinum-based neoadjuvant chemotherapy (NAC) prior to radical cystectomy (RC). The goal was to identify biomarkers that differentiate patients that achieve a pathologic response to NAC from those that are NAC resistant.
+
+The analysis was performed using R within a Quarto markdown file (Final_markdown_Peffer.qmd). Quarto is Posit's enhanced version of R Markdown that offers multi-language and multi-engine support. The rendered HTML output from the Quarto markdown can be viewed here: https://html-preview.github.io/?url=https://github.com/PhilipPeffer/MIBC_transcriptomic_biomarkers/blob/main/Scripts/Final_markdown_Peffer.html
+
+I transferred the code-blocks from the markdown file to a standalone R script (Analysis_script.R) for easier viewing on GitHub.
